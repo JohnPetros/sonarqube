@@ -15,6 +15,8 @@ Os projetos foram incorporados ao repositório principal como diretórios comuns
 
 ## Relatórios
 
+O arquivo [relatorio-completo.pdf](./relatorio-completo.pdf) reúne os dois relatórios em um único PDF, começando pelo projeto Flask e seguindo com o projeto Java.
+
 | Projeto | DOCX | HTML | PDF |
 |---|---|---|---|
 | Flask | [relatorio-flask.docx](./relatorio-flask.docx) | [relatorio-flask.html](./relatorio-flask.html) | [relatorio-flask.pdf](./relatorio-flask.pdf) |
@@ -111,6 +113,7 @@ As propriedades usadas na análise estão em [`projeto-2-spring-rest-data-securi
 ├── docker-compose.yml
 ├── projeto-1-flask/
 ├── projeto-2-spring-rest-data-security/
+├── relatorio-completo.pdf
 ├── relatorio-flask.docx
 ├── relatorio-flask.html
 ├── relatorio-flask.pdf
