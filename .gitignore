@@ -5,6 +5,7 @@
 .env
 .env.*
 !.env.example
+skills-lock.json
 
 # Python caches and test artifacts
 __pycache__/
