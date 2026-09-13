@@ -22,6 +22,7 @@ htmlcov/
 
 # SonarQube scanner artifacts
 **/.scannerwork/
+**/.sonar/
 
 # Office temporary files
 ~$*.docx
